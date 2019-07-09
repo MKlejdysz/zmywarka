@@ -1,0 +1,15 @@
+5
+Eco
+235 55 1.1
+Glass care
+100 45 1.4
+Machine care
+60 70 2.6
+Super Short
+30 50 1.8
+Dry dishes
+120 60 2.0
+//name
+//length [m]
+//water temperature [C]
+//energy consumption [kWh]
